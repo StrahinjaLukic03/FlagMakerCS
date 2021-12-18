@@ -1,0 +1,13 @@
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\bin\Debug\FlagMaker.exe.config
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\bin\Debug\FlagMaker.exe
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\bin\Debug\FlagMaker.pdb
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csproj.AssemblyReference.cache
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.Properties.Resources.resources
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csproj.GenerateResource.cache
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.exe
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.pdb
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.Menu.resources
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.About.resources
+C:\Users\Strahinja\source\repos\FlagMaker\FlagMaker\obj\Debug\FlagMaker.HorizontalTriColourFlag.resources
